@@ -23,3 +23,11 @@ console.log (multiply);
 let firstName = "Henry";
 let lastName = "Gilbane";
 console.log ("Let's go see "+firstName+" first"+","+" "+"then go and see "+lastName);
+
+//FUNCTIONS - return value
+function addition (a, b) {
+    let sum = a + b;
+    console.log (sum);
+}
+addition (100, 200);
+
