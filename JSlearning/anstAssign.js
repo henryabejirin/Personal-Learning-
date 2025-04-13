@@ -18,3 +18,8 @@ console.log (division);
 //Modulus operator
 let modulus = num1 % num2;
 console.log (multiply);
+
+//CONCATENATION
+let firstName = "Henry";
+let lastName = "Gilbane";
+console.log ("Let's go see "+firstName+" first"+","+" "+"then go and see "+lastName);
